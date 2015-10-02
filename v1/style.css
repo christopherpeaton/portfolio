@@ -6,6 +6,25 @@
     font-size: 12px;
 }
 
+#nav {
+    display: inline-block;
+    text-align: center;
+    margin-left: 250px;
+}
+
+#nav li {
+    list-style-type: none;
+    display: inline;
+    margin: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#body {
+    display: inline-block;
+    text-align: center;
+}
+
 h3 {
     color: olivedrab;
 }
@@ -30,9 +49,7 @@ img {
     color: pink;
 }
 
-.nav li {
+#contact {
     list-style-type: none;
-    display: inline;
-    margin: 50px;
-    font-size: 20px;
+    text-align: center;
 }
