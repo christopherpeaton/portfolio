@@ -1,16 +1,38 @@
-head {
-    height: 15vh;
+#index {
+    text-align: center;
 }
 
-body {
-    height: 70vh;
+#index p {
+    font-size: 12px;
 }
 
-footer {
-    height: 15vh;
+h3 {
+    color: olivedrab;
 }
 
-ul {
+img {
+    float: left;
+}
+
+#experience h1 {
+    font-family: Montserrat;
+}
+
+#experience {
+    background-color: steelblue;
+}
+
+#skills h1 {
+    font-family: Montserrat;
+}
+
+.skills_tools {
+    color: pink;
+}
+
+.nav li {
     list-style-type: none;
-    display: inline-block;
+    display: inline;
+    margin: 50px;
+    font-size: 20px;
 }
