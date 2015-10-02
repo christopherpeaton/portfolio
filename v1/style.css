@@ -37,24 +37,13 @@ img {
     float: left;
 }
 
-#experience h1 {
+h1 {
     font-family: Montserrat;
-}
-
-#experience {
-    background-color: steelblue;
-}
-
-#skills-body h2 {
-    font-family: Montserrat;
-    font-style: italic;
-    line-height: 200%;
-    display: inline-block;
     text-align: center;
 }
 
-.skills_tools {
-    color: pink;
+#skills-body p {
+    color: olivedrab;
 }
 
 #contact {
