@@ -20,16 +20,16 @@
     text-align: center;
 }
 
-#body {
+#about-body {
     display: inline-block;
     text-align: center;
 }
 
-p {
+#about-body p {
     text-align: justify;
 }
 
-h3 {
+#about-body h3 {
     color: olivedrab;
 }
 
