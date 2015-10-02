@@ -1,11 +1,16 @@
 head {
-    margin: 15vh;
+    height: 15vh;
 }
 
 body {
-    margin: 70vh;
+    height: 70vh;
 }
 
 footer {
-    margin: 15vh;
+    height: 15vh;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-block;
 }
