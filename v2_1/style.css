@@ -1,0 +1,41 @@
+
+#nav {
+    display: inline-block;
+    text-align: center;
+    margin-left: 250px;}
+
+#nav li {
+    list-style-type: none;
+    display: inline;
+    margin: 50px;
+    font-size: 20px;
+    text-align: center;}
+
+#about-body {
+    display: inline-block;
+    text-align: center;}
+
+#about-body p {
+    text-align: justify;}
+
+#about-body h3 {
+    color: olivedrab;}
+
+img {
+    float: left;}
+
+h1 {
+    font-family: Montserrat;
+    text-align: center;}
+
+#skills-body p {
+    color: olivedrab;}
+
+#contact-body ul{
+    list-style-type: none;
+    text-align: center;}
+
+#contact-body ul {
+    font-size: 25px;
+    margin-right: 15px;
+    list-style-type: none;}
