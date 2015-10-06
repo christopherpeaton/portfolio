@@ -23,6 +23,7 @@
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
+
 #nav {
     display: inline-block;
     text-align: center;
@@ -69,6 +70,43 @@ h1 {
     margin-right: 15px;
     list-style-type: none;}
 
+/* Tablets */
 @media screen and (max-width: 959px) {
-    #
+    #about-body {
+        width: 100%;
+    }
+    #nav {
+        width: 75%
+        text-align: center;
+    }
+    #nav li {
+        width: 75%
+        text-align: center;
+    }
+    img {
+        width: 20%;
+    }
+}
+
+/* iPhone 6+ / Phones */
+@media screen and (max-width: 740px) {
+    #about-body {
+        width: 100%;
+    }
+    #nav {
+        width: 75%
+        text-align: center;
+        margin: 5%;
+    }
+    #nav li {
+        width: 75%
+        text-align: center;
+    }
+    img {
+        width: 20%;
+}
+@media screen and (max-width: 340px) {
+    #about-body {
+        width: 340px;
+    }
 }
